@@ -1,18 +1,21 @@
-body {
-  margin: 0%;
+@media only screen and (max-width: 767px) {
+  body {
+    margin: 0%;
+  }
+
+  .main-page {
+    text-align: center;
+    background-image: url('/img/bg.jpg');
+    background-size: cover;
+    background-position: center;
+    padding-top: 20%;
+    padding-bottom: 66%;
+    color: white;
+  }
+
+  img {
+    max-width: 60vw;
+    height: auto;
+  }
 }
 
-.main-page {
-  text-align: center;
-  background-image: url('/img/bg.jpg');
-  background-size: cover;
-  background-position: center;
-  padding-top: 20%;
-  padding-bottom: 66%;
-  color: white;
-}
-
-img {
-  max-width: 60vw;
-  height: auto;
-}
