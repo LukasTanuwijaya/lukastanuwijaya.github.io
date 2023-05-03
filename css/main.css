@@ -17,7 +17,7 @@
 .photo {
     max-width: auto;
     height: 30vh;
-    margin-left: -2vh
+    margin-left: -1vh
 }
 
 .galeri-ssh-img {
@@ -54,4 +54,8 @@ a:link {
     padding: 3vh;
     background-color: pink;
     color: black;
+}
+
+.penutup > h5 {
+    font-size: 2vh;
 }
