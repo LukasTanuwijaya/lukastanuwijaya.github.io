@@ -11,13 +11,13 @@
 }
 
 .greetings > h2 {
-    padding-top: 3vh;
+    padding-top: 2vh;
 }
 
 .photo {
     max-width: auto;
     height: 30vh;
-    margin-left: -2.5vh
+    margin-left: -2vh
 }
 
 .galeri-ssh-img {
